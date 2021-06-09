@@ -40,7 +40,6 @@ const App: React.FC = () => {
     <div className="App">
       <div className="container">
         <h1>Rick and Monty</h1>
-        <hr/>
         <Main fetchData={fetchData} />
       </div>
     </div>
