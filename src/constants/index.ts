@@ -1,0 +1,1 @@
+export const API_URL = (page: number = 1) => `https://rickandmortyapi.com/api/character?page=${page}`;
